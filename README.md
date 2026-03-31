@@ -1,0 +1,2 @@
+# index.html
+Xush  kelibsiz 
